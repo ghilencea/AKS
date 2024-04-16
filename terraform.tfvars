@@ -1,0 +1,5 @@
+rgname= "test-andrei-rg"
+location= "westeurope"
+service_principal_name = "test-andrei-spn"
+keyvault_name = "test-andrei-kv"
+aks_name = "aks-andrei"
